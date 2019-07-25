@@ -1,7 +1,7 @@
 # InSituAnalyze-Python
 A Python Framework for Multi-Components Synchronous Analysis of Spectral Imaging
 
-VERSION = '2.0.0'
+VERSION = '2.0.0',
 url='https://github.com/JiaqiMEI/InSituAnalyze-Python',
 license='MIT',
 
