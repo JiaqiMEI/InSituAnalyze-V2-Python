@@ -31,4 +31,4 @@ license='MIT',
 
 # Launch guide 
         Settle *.py files (in the branch of ‘PythonCode’) as they were and run 'WelcomePage.py' in Python IDEs.
-        Files in the branch of 'TestFiles') may be used for the very first-run.
+        Files in the branch of 'TestFiles' may be used for the very first-run.
