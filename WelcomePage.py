@@ -11,7 +11,7 @@ import GRMain
 # end wxGlade
 
 # begin wxGlade: extracode
-# end wxGlade
+# end wxGlade       
 
 
 class MyFrame(wx.Frame):
